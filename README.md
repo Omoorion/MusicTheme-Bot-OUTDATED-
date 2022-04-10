@@ -7,4 +7,4 @@ This is a Discord Bot that plays music and stays awake 24/7 using UpTimeRobot. T
 ### main.py
 - Activates the bot. <br />
 ### keep_alive.py
-- Uses UpTimeRobot to keep the bot alive 24/7 [Depricated]. <br />
+- Uses UpTimeRobot to keep the bot awake 24/7 [Depricated]. <br />
